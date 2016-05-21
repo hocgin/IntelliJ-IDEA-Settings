@@ -1,5 +1,19 @@
 <application>
   <component name="libraryTable">
+    <library name="javassist-3.9.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Nutstore/Global-lib/Java/javassist-3.9.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="jclasslib-library">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Nutstore/Global-lib/Java/jclasslib-library.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="JLog">
       <CLASSES />
       <JAVADOC />
