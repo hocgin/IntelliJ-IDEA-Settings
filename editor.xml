@@ -15,7 +15,7 @@
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
     </pattern>
-    <pattern icon="important" useCustomColors="false" case-sensitive="false" pattern="[hocg.in]:">
+    <pattern icon="default" useCustomColors="false" case-sensitive="false" pattern="\bhocg@in\b.*">
       <option name="FOREGROUND" value="73bf" />
       <option name="FONT_TYPE" value="3" />
       <option name="ERROR_STRIPE_COLOR" value="54aae3" />
