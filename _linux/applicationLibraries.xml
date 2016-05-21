@@ -1,11 +1,11 @@
 <application>
   <component name="libraryTable">
-    <library name="jclasslib-library">
-      <CLASSES>
-        <root url="jar://$USER_HOME$/Nutstore/Global-lib/Java/jclasslib-library.jar!/" />
-      </CLASSES>
+    <library name="JLog">
+      <CLASSES />
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Project/GitHub/JLog/src" />
+      </SOURCES>
     </library>
   </component>
 </application>
