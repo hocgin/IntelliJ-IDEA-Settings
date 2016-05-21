@@ -1,6 +1,0 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
-  <action id="ActivateProjectToolWindow">
-    <keyboard-shortcut first-keystroke="alt 1" />
-    <keyboard-shortcut first-keystroke="alt b" />
-  </action>
-</keymap>
