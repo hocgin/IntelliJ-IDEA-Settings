@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'html'" />
-    <option name="defaultScopeName" value="Project 'html'" />
-    <option name="SEARCH_SCOPE" value="Project 'html'" />
+    <option name="customScope" value="Project '搜索框'" />
+    <option name="defaultScopeName" value="Project '搜索框'" />
+    <option name="SEARCH_SCOPE" value="Project '搜索框'" />
   </component>
 </application>
