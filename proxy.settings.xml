@@ -1,0 +1,8 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="mirrors.opencas.ac.cn" />
+    <option name="PROXY_LOGIN" value="hcj.ss" />
+    <option name="PROXY_PASSWORD_CRYPT" value="aGNqLnNz" />
+    <option name="KEEP_PROXY_PASSWORD" value="true" />
+  </component>
+</application>
