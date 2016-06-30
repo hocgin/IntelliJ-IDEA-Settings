@@ -16,15 +16,12 @@
     </library>
     <library name="JLog">
       <CLASSES>
-        <root url="jar://$USER_HOME$/Nutstore/Global-lib/Java/jarJLog.jar!/" />
+        <root url="jar://$USER_HOME$/Nutstore/Global-lib/Java/JLog.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/Project/GitHub/JLog/src" />
       </SOURCES>
-      <excluded>
-        <root url="file://$USER_HOME$" />
-      </excluded>
     </library>
   </component>
 </application>
