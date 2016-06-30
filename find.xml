@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project '搜索框'" />
-    <option name="defaultScopeName" value="Project '搜索框'" />
-    <option name="SEARCH_SCOPE" value="Project '搜索框'" />
+    <option name="customScope" value="Project 'WebSocket'" />
+    <option name="defaultScopeName" value="Project 'WebSocket'" />
+    <option name="SEARCH_SCOPE" value="Project 'WebSocket'" />
   </component>
 </application>
