@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="xx.css" type="PLAIN_TEXT" />
       <mapping ext="cdf" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
