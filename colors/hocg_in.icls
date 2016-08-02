@@ -1,12 +1,12 @@
 <scheme name="hocg.in" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_NAME" value="Ubuntu Mono" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
