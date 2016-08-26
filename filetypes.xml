@@ -5,6 +5,7 @@
       <mapping pattern="ioc.js" type="PLAIN_TEXT" />
       <mapping ext="cdf" type="PLAIN_TEXT" />
       <mapping pattern="pom" type="XML" />
+      <mapping ext="cfg" type="XML" />
     </extensionMap>
   </component>
 </application>
