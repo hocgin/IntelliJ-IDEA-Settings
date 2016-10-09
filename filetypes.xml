@@ -4,7 +4,6 @@
       <mapping pattern="xx.css" type="PLAIN_TEXT" />
       <mapping pattern="ioc.js" type="PLAIN_TEXT" />
       <mapping ext="cdf" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
       <mapping pattern="account.propretion" type="TypeScript JSX" />
       <mapping pattern="pom" type="XML" />
       <mapping ext="cfg" type="XML" />
