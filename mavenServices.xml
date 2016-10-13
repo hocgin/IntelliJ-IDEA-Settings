@@ -1,5 +1,0 @@
-<application>
-  <component name="MavenServices">
-    <service-url>http://59.61.87.126:8081/nexus/content/groups/public</service-url>
-  </component>
-</application>
